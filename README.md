@@ -3,5 +3,5 @@
 # stopwatch
 
 ## Demo
-![Video](/video/video.mp4)
+[Video](/video/video.mp4)
 
