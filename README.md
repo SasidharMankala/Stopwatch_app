@@ -1,7 +1,5 @@
 # stopwatch
 
-# stopwatch
-
-## Demo
+## Demo video
 [Video](/video/video.mp4)
 
