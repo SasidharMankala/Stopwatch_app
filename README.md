@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
 
 ## Screenshot
 
